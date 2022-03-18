@@ -1,7 +1,7 @@
-Atribut		Tipe				Keterangan 
+Atribut			Tipe			Keterangan 
 category		Diskrit nominal		Jenis Produk
 item			Diskrit nominal		Nama Produk
-variety		Diskrit nominal		Varian Produk
-date			Numerik interval		Tanggal Survey
+variety			Diskrit nominal		Varian Produk
+date			Numerik interval	Tanggal Survey
 price			Numerik rasio		Harga Produk
 unit			Diskrit ordinal		Satuan Produk		
