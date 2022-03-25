@@ -5,3 +5,8 @@ variety			Diskrit nominal		Varian Produk
 date			Numerik interval	Tanggal Survey
 price			Numerik rasio		Harga Produk
 unit			Diskrit ordinal		Satuan Produk		
+
+Dataset ini berisi harga grosir rata-rata untuk produk hortikultura rumahan yang terpilih 
+di Negara Inggris dan Wales.
+Ini adalah harga rata-rata yang paling banyak digunakan oleh para pedagang grosir untuk buah-buahan, 
+sayuran, dan bunga potong pilihan yang dijual di pasar grosir di Inggris.
